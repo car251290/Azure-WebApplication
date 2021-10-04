@@ -1,0 +1,7 @@
+/Users/javi/Desktop/Exercise Files/CH03/01/End/HPlusSportsAPI/obj/Debug/netcoreapp3.1/HPlusSportsAPI.csproj.AssemblyReference.cache
+/Users/javi/Desktop/Exercise Files/CH03/01/End/HPlusSportsAPI/obj/Debug/netcoreapp3.1/HPlusSportsAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/javi/Desktop/Exercise Files/CH03/01/End/HPlusSportsAPI/obj/Debug/netcoreapp3.1/HPlusSportsAPI.AssemblyInfoInputs.cache
+/Users/javi/Desktop/Exercise Files/CH03/01/End/HPlusSportsAPI/obj/Debug/netcoreapp3.1/HPlusSportsAPI.AssemblyInfo.cs
+/Users/javi/Desktop/Exercise Files/CH03/01/End/HPlusSportsAPI/obj/Debug/netcoreapp3.1/HPlusSportsAPI.csproj.CoreCompileInputs.cache
+/Users/javi/Desktop/Exercise Files/CH03/01/End/HPlusSportsAPI/obj/Debug/netcoreapp3.1/HPlusSportsAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/javi/Desktop/Exercise Files/CH03/01/End/HPlusSportsAPI/obj/Debug/netcoreapp3.1/HPlusSportsAPI.MvcApplicationPartsAssemblyInfo.cache
