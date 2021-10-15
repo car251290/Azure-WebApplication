@@ -5,10 +5,9 @@ using System.Threading.Tasks;
 
 namespace HPlusSportsAPI.Controllers
 {
-    /// <summary>
     /// Handles submitting orders to the queue and 
     /// retrieving order history
-    /// </summary>
+   
     [Route("api/[controller]")]
     [ApiController]
     public class OrderController : ControllerBase
@@ -22,11 +21,11 @@ namespace HPlusSportsAPI.Controllers
             tService = tableService;
         }
 
-        /// <summary>
+       
         /// Creates an order on an Azure Queue for processing.
         /// </summary>
         /// <param name="order">the order to write</param>
-        /// <returns></returns>
+       
         [HttpPost]
         public async Task<IActionResult> CreateOrder(Order order)
         {
